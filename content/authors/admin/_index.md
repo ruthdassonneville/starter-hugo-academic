@@ -10,7 +10,7 @@ last_name: Dassonneville
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Political science
 
 # Organizations/Affiliations to show in About widget
 organizations:
