@@ -6,10 +6,6 @@ title: Ruth Dassonneville
 first_name: Ruth
 last_name: Dassonneville
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
