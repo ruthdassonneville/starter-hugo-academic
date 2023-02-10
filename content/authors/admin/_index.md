@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: malto:ruth.dassonneville@umontreal.ca
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/r_dassonneville
