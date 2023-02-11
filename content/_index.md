@@ -14,7 +14,7 @@ sections:
       text:     
       
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Selected Publications
       filters:
