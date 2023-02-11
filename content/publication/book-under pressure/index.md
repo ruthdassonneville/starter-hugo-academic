@@ -31,7 +31,7 @@ publication_short: In *OUP*
 abstract: This book examines changes in voters' electoral choices over time and investigates how these changes are linked to a growth in electoral volatility. Ruth Dassonneville's core argument, supported by extensive empirical data, is that group-based cross-pressures lead to instability in voters' choices. She theorizes that when citizens' socio-demographic characteristics and their membership of social groups do not consistently push them to support one party, but instead lead them to feel cross-pressured between parties, their voting decision process lacks constraint. Voters who are group-based cross-pressured are less likely to feel an attachment to a party, and have less guidance when assessing the state of the economy, when taking positions on issues, or evaluating leaders. The different factors that influence voters' choices, as a result, do not add up to strengthening a preference for one specific party but instead lead a voter to consider different parties. To test this argument, the book makes use of election survey data from eight established democracies that allow the study of voting behaviour and its correlates over several decades. These data are complemented with data from the European Election Studies project and from election study panels. The book shows that group-based cross-pressures are an important source of instability as they affect the extent to which citizens' voting decision process is structured. This is evident from the fact that cross-pressured voters are more ambivalent between parties, make their voting decision later, and are more likely to switch parties from one election to the next.
 
 # Summary. An optional shortened abstract.
-#summary: This book examines changes in voters' electoral choices over time and investigates how these changes are linked to a growth in electoral volatility...
+summary: This book examines changes in voters' electoral choices over time and investigates how these changes are linked to a growth in electoral volatility...
 
 tags: []
 
@@ -43,6 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: 
 
+url_publisher: 'https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
