@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Gender, Political Knowledge, and Descriptive Representation: The Impact of Long-Term Socialization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,11 +7,6 @@ title: 'An example conference paper'
 authors:
   - admin
   - Ian McAllister
-
-# Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
 
 date: '2018-04-01T00:00:00Z'
 doi: ''
