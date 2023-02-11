@@ -53,7 +53,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-url_custom = [{name = "Order", url = "[https://voxdev.org/topic/institutions-political-economy/citizens-can-effectively-monitor-integrity-their-elections-evidence-colombia](https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&)"}]
+url_custom = [{name = "Order", url = "https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
