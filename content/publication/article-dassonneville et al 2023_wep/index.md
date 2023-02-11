@@ -1,10 +1,10 @@
 +++
-title = "Test title"
-date = "2022-07-27"
+title = "Partisan attachments in a multidimensional space"
+date = "2022-07-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Author 1", "Author 2"]
+authors = ["Ruth Dassonneville", "Patrick Fournier", "Zeynep Somer-Topcu"]
 
 # Publication type.
 # Legend:
