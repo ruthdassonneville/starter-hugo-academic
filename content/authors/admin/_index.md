@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an Associate Professor in the Département de science politique of the Université de Montréal, where I hold a Canada Research Chair in Electoral Democracy. I obtained my PhD at the University of Leuven (2015).  
-My research interests include electoral behaviour, dealignment, economic voting, compulsory voting, and women and politics. My work on these topics has been published in, amongst others, the American Journal of Political Science, the British Journal of Political Science, the European Journal of Political Research and the Journal of Politics.   
+I am an Associate Professor in the Département de science politique of the Université de Montréal, where I hold a Canada Research Chair in Electoral Democracy. I obtained my PhD at the University of Leuven (2015).  <br />
+My research interests include electoral behaviour, dealignment, economic voting, compulsory voting, and women and politics. My work on these topics has been published in, amongst others, the American Journal of Political Science, the British Journal of Political Science, the European Journal of Political Research and the Journal of Politics.   <br />
 I am a member of the Centre for the Study of Democratic Citizenship and of the Montreal Centre for International Studies (CERIUM). I am an editor at the British Journal of Political Science and an associate editor at Electoral Studies and French Politics.
 {style="text-align: justify;"}
