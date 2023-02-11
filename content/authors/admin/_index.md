@@ -9,9 +9,6 @@ last_name: Dassonneville
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Political science
-
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Université de Montréal
