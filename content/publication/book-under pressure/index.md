@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: 
+  url: 'https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&'
 
 url_publisher: 'https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&'
 url_pdf: ''
