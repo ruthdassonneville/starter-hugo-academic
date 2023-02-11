@@ -40,7 +40,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'publication/article-dassonneville_mcallister_2018/Dassonneville and McAllister 2018.pdf'
-url_journal: '[https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajps.12353](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12353?casa_token=b52KFDjc0NAAAAAA%3Azzo2hPwOF_uTva7Jl_IzU5ESJZkQI-1FUCLqhclusOY57x0fgcvum-yOhCuOZZOy3zwbQ_164YZJ7g)'
+url_journal: 'https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12353?casa_token=b52KFDjc0NAAAAAA%3Azzo2hPwOF_uTva7Jl_IzU5ESJZkQI-1FUCLqhclusOY57x0fgcvum-yOhCuOZZOy3zwbQ_164YZJ7g)
 url_code: 'https://doi.org/10.7910/DVN/PL2XFD'
 url_dataset: ''
 url_poster: ''
