@@ -52,7 +52,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
 url_custom = [{name = "Order", url = "https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&"}]
 
 # Featured image
