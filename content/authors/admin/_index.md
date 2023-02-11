@@ -72,9 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-Ruth Dassonneville is an Associate Professor at the Département de science politique of the Université de Montréal, where she holds a Canada Research Chair in Electoral Democracy. She holds a PhD from the University of Leuven (2015). {style="text-align: justify;"}
-
-Her research interests include electoral behaviour, dealignment, economic voting, compulsory voting, and women and politics. Her work on these topics has been published in, amongst others, the American Journal of Political Science, the British Journal of Political Science, the European Journal of Political Research and the Journal of Politics. {style="text-align: justify;"}
-
+Ruth Dassonneville is an Associate Professor at the Département de science politique of the Université de Montréal, where she holds a Canada Research Chair in Electoral Democracy. She holds a PhD from the University of Leuven (2015). 
+Her research interests include electoral behaviour, dealignment, economic voting, compulsory voting, and women and politics. Her work on these topics has been published in, amongst others, the American Journal of Political Science, the British Journal of Political Science, the European Journal of Political Research and the Journal of Politics. 
 Ruth Dassonneville is a member of the Centre for the Study of Democratic Citizenship and of the Montreal Centre for International Studies (CERIUM). She is also an editor at the British Journal of Political Science and an associate editor of the journals Electoral Studies and French Politics.
 {style="text-align: justify;"}
