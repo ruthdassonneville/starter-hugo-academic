@@ -27,7 +27,7 @@ publication_short: In *AJPS*
 abstract: Successive studies have found a persistent gender gap in political knowledge. Despite much international research, this gap has remained largely impervious to explanation. A promising line of recent inquiry has been the low levels of women's elected representation in many democracies. We test the hypothesis that higher levels of women's elected representation will increase women's political knowledge. Using two large, comparative data sets, we find that the proportion of women elected representatives at the time of the survey has no significant effect on the gender gap. By contrast, there is a strong and significant long-term impact for descriptive representation when respondents were aged 18 to 21. The results are in line with political socialization, which posits that the impact of political context is greatest during adolescence and early adulthood. These findings have important implications not only for explaining the gender knowledge gap, but also for the impact of descriptive representation on political engagement generally.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed #ex sollicitudin condimentum.
+Dassonneville, Ruth, and Ian McAllister. "Gender, political knowledge, and descriptive representation: The impact of long‐term socialization." American Journal of Political Science 62.2 (2018): 249-265.
 
 tags: []
 
