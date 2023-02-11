@@ -39,7 +39,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajps.12353'
+url_pdf: ''
+url_journal: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajps.12353'
 url_code: ''
 url_dataset: ''
 url_poster: ''
