@@ -47,6 +47,15 @@ email: ''
 highlight_name: true
 ---
 
+ profile:
+  align: right
+  image: avatar.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>   
+
 I am an Associate Professor in the [political science department at the Université de Montréal](https://pol.umontreal.ca/accueil/), where I hold the [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com/). I obtained my PhD at the University of Leuven in 2015, where I was a PhD fellow of the Research Foundation Flanders (FWO).  <br /> <br />
 My research interests include electoral behaviour, dealignment, economic voting, compulsory voting, and women and politics. My work on these topics has been published in, amongst others, the American Journal of Political Science, the British Journal of Political Science, the European Journal of Political Research and the Journal of Politics.  <br /> <br />
 In 2023, I published [Voters Under Pressure](https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&) with Oxford University Press. In this book, I examine changes in voters' electoral choices over time and investigate how these changes are linked to a growth in electoral volatility. The core argument that is presented and tested in this book is that group-based cross-pressures are an important source of electoral volatility. <br /> <br />
