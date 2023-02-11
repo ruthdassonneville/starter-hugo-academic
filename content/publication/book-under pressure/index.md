@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-01-01T00:00:00Z'
-doi: 'https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&#'
+doi: "https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&#"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
