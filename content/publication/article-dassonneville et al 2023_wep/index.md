@@ -18,12 +18,12 @@ authors = ["Author 1", "Author 2"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "test title"
-publication_short = "short title test"
+publication = "Dassonneville, R., Fournier, P., & Somer-Topcu, Z. (2022). Partisan attachments in a multidimensional space. West European Politics, 1-27."
+publication_short = "West European Politics"
 
 # Abstract and optional shortened version.
-abstract = "An abstract"
-abstract_short = ""
+abstract = "How do party positions in a multidimensional space affect party identification? This article argues that when parties take consistent ideological positions across dimensions, they clarify their brand, fostering party identifications. An analysis that uses data from the European Social Survey and the Chapel Hill Expert Survey provides evidence for this argument. The results also indicate that the effect particularly holds for the less educated and politically less interested. In addition, ideological inconsistency affects individual parties’ electoral appeal, as parties that take different positions on two dimensions tend to have a smaller partisan base. The results provide important insights into how multidimensional party competition shapes the development of party attachments."
+abstract_short = "How do party positions in a multidimensional space affect party identification? This article argues that when parties take consistent ideological positions across dimensions, they clarify their brand, fostering party identifications..."
 
 # Is this a selected publication? (true/false)
 selected = true
