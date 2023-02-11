@@ -36,7 +36,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
+ - name: Custom Link
    url: https://doi.org/10.1111/ajps.12353
 
 url_pdf: ''
