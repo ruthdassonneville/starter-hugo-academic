@@ -43,7 +43,6 @@ links:
  name: "order"
  url: "https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&"
 
-url_url: 'https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
