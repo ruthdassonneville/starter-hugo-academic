@@ -14,16 +14,6 @@ organizations:
   - name: Université de Montréal
     url: https://www.chairedemocratie.com/
 
-# Profile picture
-profile:
-  align: right
-  image: avatar.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
