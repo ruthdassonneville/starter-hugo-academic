@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "publication/article-dassonneville et al 2023_wep/dassonneville et al-wep.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
