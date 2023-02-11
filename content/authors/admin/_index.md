@@ -39,7 +39,15 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
+ profile:
+  align: right
+  image: avatar.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>   
+    
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
