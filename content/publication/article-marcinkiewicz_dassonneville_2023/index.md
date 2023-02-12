@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Vaccine or catalyst? Christian religion and populism in Europe: A rejoinder to Inglehart's “Religion's sudden decline”'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,11 +7,6 @@ title: 'An example conference paper'
 authors:
   - Kamil Marcinkiewicz
   - admin
-
-# Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
 
 date: '2023-02-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.electstud.2023.102593'
@@ -42,15 +37,15 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://doi.org/10.1111/ajps.12353
+#   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'publication/article-marcinkiewicz_dassonneville_2023/marcinkiewicz-dassonneville-2023.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: "
+url_source: ''
 url_video: ''
 
 # Featured image
@@ -65,13 +60,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
