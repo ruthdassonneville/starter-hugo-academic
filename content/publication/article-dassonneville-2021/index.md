@@ -1,5 +1,5 @@
 ---
-title: 'Change and continuity in the ideological gender gap'
+title: 'Change and continuity in the ideological gender gap. A longitudinal analysis of left-right self-placement in OECD countries'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2021-02-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1111/1475-6765.12384'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -49,7 +49,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: "
+url_source: ''
 url_video: ''
 
 # Featured image
