@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Ruth Dassonneville
+# title: Ruth Dassonneville
 
 # Full name (for SEO)
-first_name: Ruth
-last_name: Dassonneville
+# first_name: Ruth
+# last_name: Dassonneville
 
 # Is this the primary user of the site?
-superuser: true
+# superuser: true
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Université de Montréal
-    url: https://www.chairedemocratie.com/
+# organizations:
+#  - name: Université de Montréal
+#    url: https://www.chairedemocratie.com/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
