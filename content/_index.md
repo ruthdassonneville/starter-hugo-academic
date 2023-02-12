@@ -9,7 +9,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: hero-academic.png
+        filename: website-profile.jpg
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
