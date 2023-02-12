@@ -12,7 +12,7 @@
 # Organizations/Affiliations to show in About widget
  organizations:
   - name: Université de Montréal
-    url: https://www.chairedemocratie.com/
+    url: https://www.umontreal.ca/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
