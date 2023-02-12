@@ -9,7 +9,7 @@ authors:
   - Ian McAllister
 
 date: '2018-04-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1111/ajps.12353'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
