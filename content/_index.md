@@ -11,7 +11,8 @@ sections:
       image:
         filename: website-profile.jpg
       text: |-
-        Associate professor, Université de Montréal
+        Associate professor, Université de Montréal  
+        
         Canada Research Chair in Electoral Democracy
 
         <!--Custom spacing-->
