@@ -19,6 +19,7 @@ sections:
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
+        
       design:
       background:
         gradient_end: '#FFFFFF'
@@ -30,8 +31,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text:     
-      
+      text:         
   - block: collection
     id: publications
     content:
