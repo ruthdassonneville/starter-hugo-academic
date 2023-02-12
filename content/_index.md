@@ -13,7 +13,7 @@ sections:
       text: |-
         Associate professor, Université de Montréal  
         
-        Canada Research Chair in Electoral Democracy
+        [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com/)
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
