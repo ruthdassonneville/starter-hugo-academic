@@ -10,7 +10,7 @@
  superuser: true
 
 # Organizations/Affiliations to show in About widget
-# organizations:
+ organizations:
   - name: Université de Montréal
     url: https://www.chairedemocratie.com/
 
