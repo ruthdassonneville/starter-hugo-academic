@@ -1,5 +1,5 @@
 ---
-title: 'Change and continuity in the ideological gender gap a longitudinal analysis of left-right self-placement in OECD countries'
+title: 'Change and continuity in the ideological gender gap'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
