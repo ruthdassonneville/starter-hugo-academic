@@ -6,7 +6,7 @@ title: 'Vaccine or catalyst? Christian religion and populism in Europe: A rejoin
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Kamil Marcinkiewicz
-  - admin
+  - Ruth Dassonneville
 
 date: '2023-02-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.electstud.2023.102593'
