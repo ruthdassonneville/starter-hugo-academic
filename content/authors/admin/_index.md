@@ -13,6 +13,16 @@
  organizations:
   - name: Université de Montréal
     url: https://www.umontreal.ca/
+    
+    
+social:
+- icon: 'twitter fa-2x'
+  icon_pack: fab
+  link: 'https://twitter.com/r_dassonneville'
+  label: ''
+  display:
+    header: true
+    footer: true    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
