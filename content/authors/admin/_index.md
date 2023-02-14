@@ -13,16 +13,6 @@
  organizations:
   - name: Université de Montréal
     url: https://www.umontreal.ca/
-    
-    
-social:
-- icon: 'twitter fa-2x'
-  icon_pack: fab
-  link: 'https://twitter.com/r_dassonneville'
-  label: ''
-  display:
-    header: true
-    footer: true    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,6 +46,7 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
 ---
 
 I am an Associate Professor in the [political science department at the Université de Montréal](https://pol.umontreal.ca/accueil/), where I hold the [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com/). Together with Romain Lachat, I am also the co-chair of the [Chaire CÉRIUM-FMSH sur la gouvernance mondiale](https://cerium.umontreal.ca/en/recherche-et-publications/unites-de-recherche/chaire-ceri-cerium/#blogue). I obtained my PhD at the University of Leuven in 2015, where I was a PhD fellow of the Research Foundation Flanders (FWO).  <br /> <br />
