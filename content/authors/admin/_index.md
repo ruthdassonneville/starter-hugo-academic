@@ -21,7 +21,7 @@
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:ruth.dassonneville@umontreal.ca
+    link: 'ruth.dassonneville@umontreal.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/r_dassonneville
@@ -33,13 +33,13 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ruthdassonneville
-    
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
+ # - icon: cv
   #  icon_pack: ai
-  #  link: uploads/resume.pdf 
+  #  link: uploads/resume.pdf
+    
     
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
