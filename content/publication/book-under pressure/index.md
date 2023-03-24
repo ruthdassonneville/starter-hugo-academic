@@ -42,7 +42,7 @@ featured: true
 # - name: "order"
 # url: "https://global.oup.com/academic/product/voters-under-pressure-9780192894137?cc=ca&lang=en&"
 
-url_pdf: ''
+url_pdf: 'publication/article-marcinkiewicz_dassonneville_2023/marcinkiewicz-dassonneville-2023.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
