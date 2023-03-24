@@ -44,7 +44,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'publication/article-marcinkiewicz_dassonneville_2023/slides-represent.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
