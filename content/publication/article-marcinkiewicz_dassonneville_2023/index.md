@@ -44,7 +44,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'publication/book-under pressure/slides-represent.pdf'
 url_source: ''
 url_video: ''
 
