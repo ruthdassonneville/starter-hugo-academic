@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
    url: 
 
-url_order:'https://www.cambridge.org/core/elements/citizens-under-compulsory-voting-a-threecountry-study/40D2863BDA4F46DABD53E1831BA4BA16'
+url_order: 'https://www.cambridge.org/core/elements/citizens-under-compulsory-voting-a-threecountry-study/40D2863BDA4F46DABD53E1831BA4BA16'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
