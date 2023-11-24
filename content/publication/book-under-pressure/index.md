@@ -44,6 +44,7 @@ featured: true
 
 url_pdf: ''
 url_code: ''
+url_podcast: 'https://podcasters.spotify.com/pod/show/ecpr/episodes/Voters-Under-Pressure-What-Drives-Electoral-Volatility-e2aum1e/a-aagvepr'
 url_dataset: ''
 url_poster: ''
 url_project: ''
