@@ -1,5 +1,5 @@
 ---
-title: 'Voters Under Pressure: Group-Based Cross-Pressure and Electoral Volatility'
+title: 'Citizens Under Compulsory Voting: A Three-Country Study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
