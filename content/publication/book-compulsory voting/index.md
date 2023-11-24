@@ -2,8 +2,12 @@
 title: 'Citizens Under Compulsory Voting: A Three-Country Study'
 authors:
   - admin
-date: '2023-01-01T00:00:00Z'
-doi: ''
+  - Thiago Barbosa
+  - André Blais
+  - Ian McAllister
+  - Mathieu Turgeon
+date: '2023-09-01T00:00:00Z'
+doi: 'https://doi.org/10.1017/9781009071116'
 publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['5']
 publication: In *Cambridge University Press*
