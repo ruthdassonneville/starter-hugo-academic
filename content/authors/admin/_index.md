@@ -11,8 +11,8 @@
 
 # Organizations/Affiliations to show in About widget
  organizations:
-  - name: Université de Montréal
-    url: https://www.umontreal.ca/
+  - name: KU Leuven
+    url: https://www.kuleuven.be/wieiswie/en/person/00072478
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
